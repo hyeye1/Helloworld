@@ -28,9 +28,14 @@ public class RunA { // 실행만을 담당하는 실행용 클래스
 		
 		// 2) 생성 후 메소드 실행 (호출)
 		// [표현법] 대변할이름.실행할메소드명();
+		
+		/*
 		a.helloPrint();
 		a.seeYouPrint();
 		a.goodByePrint();
+		*/
+		
+		a.helloPrint();
 		
 	}
 
